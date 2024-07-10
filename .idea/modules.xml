@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/projet-scala-billes.iml" filepath="$PROJECT_DIR$/.idea/modules/projet-scala-billes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/projet-scala-billes.projet-scala-billes-build.iml" filepath="$PROJECT_DIR$/.idea/modules/projet-scala-billes.projet-scala-billes-build.iml" />
+    </modules>
+  </component>
+</project>
